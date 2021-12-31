@@ -34,5 +34,5 @@ python main.py
 ```
 
 <div align="center">
-  <img src="shot.gif" />
+  <img src="docs/shot.gif" />
 </div>
