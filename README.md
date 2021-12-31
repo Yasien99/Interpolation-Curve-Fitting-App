@@ -21,7 +21,7 @@ $ git clone https://github.com/badra022/Interpolation-Curve-Fitting-App.git
 ```
 2. **_Navigate to repository directory_**
 ```sh
-$ cd Interpolation-Curve-Fitting-App
+$ cd Interpolation-Curve-Fitting-App\src
 
 ```
 3. **_install project dependencies_**
