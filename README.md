@@ -17,7 +17,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/badra022/Interpolation-Curve-Fitting-App.git
+$ git clone https://github.com/Yasien99/Interpolation-Curve-Fitting-App.git
 ```
 2. **_Navigate to repository directory_**
 ```sh
